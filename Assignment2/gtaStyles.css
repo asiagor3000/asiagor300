@@ -1,0 +1,79 @@
+body{
+    background-color:rgb(66, 155, 152) ; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+h1{
+    background-color: navy;
+    color: darkorange ;
+    padding: 20px;
+    text-align: center;
+    border-radius: 0px;
+    border: 6px solid deeppink;
+}
+h2{
+    background-color: darkorange;
+    color: rgb(0, 75, 128);
+    text-align: center; 
+     border-radius: 20px;
+      padding: 20px;
+    border: 6px solid rgb(197, 50, 205);
+}
+.container {
+  margin: 50px auto;
+  background-color:chartreuse;
+  padding: 20px 40px;
+  border-radius: 20px;
+  max-width: 600px;
+  text-align: center;
+}
+.info{
+    background-color: rgba(0, 0, 128, 0.55);
+    color: chartreuse;
+    border: 6px groove deeppink;
+    padding: 20px;
+    border-radius: 0px;
+    margin-top: 20px;
+}
+.mainCs{
+  background-color:rgb(0, 75, 128);
+  color: rgb(255, 123, 0);
+  border: 6px groove chartreuse;
+  border-radius: 0px;
+  padding: 20px 40px;
+  max-width: 600px;
+  text-align: center;
+  margin: 50px auto;
+
+}
+.supCs{
+  background-color:chartreuse;
+  color: rgb(0, 75, 128); 
+  border: 6px groove rgb(0, 166, 255);
+  border-radius: 0px;
+  max-width: 600px;
+  text-align: center;
+    padding: 20px 40px;
+    margin: 50px auto;
+}
+li{
+    margin: 50px auto;
+    background-color: deeppink;
+     color: chartreuse;
+    display: inline-block;
+    margin: 20px;
+    list-style: none;
+}
+a:link {
+  
+    text-decoration: none;
+    color: chartreuse;
+}
+a:visited {
+    text-decoration: none;
+    color: navy;
+}
+a:hover {
+    text-decoration: underline;
+   
+}
